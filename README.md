@@ -1,2 +1,2 @@
 # Arts-summary-Dashboard
-! [ ](ArtsSummaryDashboard.png)
+![ ](ArtsSummaryDashboard.png)
