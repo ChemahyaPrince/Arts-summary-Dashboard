@@ -1,6 +1,6 @@
 # Arts Summary Dashboard
 
-## Dashboard Preview <img width="1446" height="802" alt="image" src="https://github.com/user-attachments/assets/d0725ce8-defa-4f3e-b06c-fab4b9e9fbba" />
+## Dashboard Preview <<img width="1549" height="857" alt="image" src="https://github.com/user-attachments/assets/8e94bc94-f578-4456-98c6-4d7859610225" />
 
 
 ## About the Project
